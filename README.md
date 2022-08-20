@@ -43,3 +43,4 @@
 
 Для более подробного ознакомления с системой контроля Git используйте [ссылку](https://git-scm.com/book/ru/v2)
 
+<img src="C:\Users\Antoh\Desktop\47f2845b4191dbd18713697ad3c963a650ec4612r1-960-720v2_uhq.jpg" alt="Желаю удачи!)">
